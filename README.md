@@ -1,4 +1,4 @@
-Este repositório contém alduns dos meus estudos em python.
+Este repositório contém alguns dos meus estudos em python.
 Cada pasta contêm um pequeno projeto separado aplicando os conhecimentos que adquiri.
 
 d001 - Um exercício simples e introdutório a POO. A classe cadastra um funcionário e sua função apresentar() o apresenta.
